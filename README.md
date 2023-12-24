@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a new wireless device**
 
-- 📫 How to reach me **ashkanfareghi07@gmail.com**
+- 📫 How to reach me: **ashkanfareghi07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
