@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkanfareghi&label=Profile%20views&color=0e75b6&style=flat" alt="ashkanfareghi" /> </p>
 
-- 🔭 I’m currently working on **a new wireless device**
+- 🔭 I’m currently working on **a new wireless device **
 
 - 📫 How to reach me: **ashkanfareghi07@gmail.com**
 
